@@ -1,27 +1,56 @@
-# FyloDataStorageComponentMaster
+# Frontend Mentor - Fylo data storage component solution
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.10.
+This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Development server
+## Table of contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
+## Overview
 
-## Code scaffolding
+My Personal goal for this task was to work with Tailwind CSS.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### The challenge
 
-## Build
+Users should be able to:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- View the optimal layout for the site depending on their device's screen size
 
-## Running unit tests
+### Screenshot
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Desktop:
+![](/src/assets/Screenshot-Desktop.png)
 
-## Running end-to-end tests
+Mobile:
+![](/src/assets/Screenshot-Mobile.png)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+### Links
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [Live Site](https://your-live-site-url.com)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [Tailwind CSS](https://tailwindcss.com) - CSS Framework
+- [Angular](https://angular.io) - Web Development Framework
+
+
+### What I learned
+
+I learnt to use some Tailwind CSS basics like flexbox, position properties, etc.,
+
+## Author
+
+- Frontend Mentor - [@velvetrose](https://www.frontendmentor.io/profile/velvetrose)
