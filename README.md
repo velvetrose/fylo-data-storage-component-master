@@ -33,8 +33,8 @@ Mobile:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/velvetrose/fylo-data-storage-component-master.git)
+- Live Site URL: [Live Site](https://velvetrose.github.io/fylo-data-storage-component-master/)
 
 ### Built with
 
